@@ -1,0 +1,58 @@
+body {
+  background-color: aqua;
+}
+
+.head {
+  font-family: Georgia, Helvetica, sans-seriff;
+  background-color: #7DF9FF;
+  border: 2px solid black;
+  padding-left: 200px
+}
+
+.aboutme {
+  font-family: Georgia, Helvetica, sans-seriff;
+  background-color: #7DF9FF;
+  border: 2px solid black;
+  padding-left: 220px
+}
+
+.aboutmeread {
+  background-color: #7DF9FF;
+}
+
+.seasalt {
+  font-family: Georgia, Helvetica, sans-seriff;
+  background-color: #7DF9FF;
+  border: 2px solid black;
+  padding-left: 220px;
+}
+
+.seasaltlist {
+  background-color: #7DF9FF;
+}
+
+.townhall {
+  font-family: Georgia, Helvetica, sans-seriff;
+  background-color: #7DF9FF;
+  border: 2px solid black;
+  padding-left: 210px;
+}
+
+.townhalllist {
+  background-color: #7DF9FF;
+}
+
+.avex {
+  font-family: Georgia, Helvetica, sans-seriff;
+  background-color: #7DF9FF;
+  border:2px solid black;
+  padding-left: 180px
+}
+
+.education{
+  font-size: 13px;
+  font-family: Georgia, Helvetica, sans-seriff;
+  background-color: #7DF9FF;
+  border:2px solid black;
+  padding-left: 160px
+}
