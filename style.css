@@ -6,7 +6,13 @@ body {
   font-family: Georgia, Helvetica, sans-seriff;
   background-color: #7DF9FF;
   border: 2px solid black;
+  display: inline-block;
+  margin: 0px auto;
+  width: 900px;
+  font-size: 20px;
+  padding:10px;
   text-align: center;
+  position: relative; top: 200px;
 }
 
 .aboutme {
@@ -55,4 +61,9 @@ body {
   background-color: #7DF9FF;
   border:2px solid black;
   text-align: center;
+}
+
+.image {
+  margin-left: 1300px;
+  position: relative; top: -200px;
 }
