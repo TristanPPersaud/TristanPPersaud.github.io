@@ -26,11 +26,18 @@ body {
   background-color: #7DF9FF;
 }
 
+.experience {
+  border: 2px solid black;
+  text-align: center; 
+  background-color: #7DF9FF
+}
+
 .seasalt {
   font-family: Georgia, Helvetica, sans-seriff;
   background-color: #7DF9FF;
   border: 2px solid black;
   text-align: center;
+  
 }
 
 .seasaltlist {
