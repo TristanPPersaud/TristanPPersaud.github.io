@@ -1,1 +1,109 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <link rel="stylesheet" href="style.css"/>
+    
+    <div class=head>
+      <h1>Tristan Persaud</h1>
 
+      <h4>5717 24th Ave S.</h4>
+
+      <h4>Minneapolis MN, 55417</h4>
+
+      <h4>646-685-7959</h4>  
+    </div>
+  
+    <div class=image>
+    
+      <img src="https://scontent-msp1-1.xx.fbcdn.net/v/t39.30808-6/451548005_3682899008588700_9111984017278088361_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Nryo7UEWO5YQ7kNvgEf7KFT&_nc_ht=scontent-msp1-1.xx&oh=00_AYCorwtoWpLwXGC_FkF0k78TotQXSAP9S0VddqI4BuwvRQ&oe=669C6193" width = 400px/>   
+        
+    </div>
+  
+  
+  </head>
+  
+  <body>
+  <div class=aboutmelink>
+    <a href="about me.html">About me</a>
+  </div>
+    <div class=experience>
+      <h2>Experience</h2>
+    </div>
+    <div class=seasalt>
+      
+
+      <h3>Sea Salt Eatery</h3>
+
+      <h4>March, 2018-Current</h4>
+
+      <h4>Shift Lead</h4>
+    </div>
+    
+    <div class=seasaltlist>
+      <ul>
+        <li>Maintained and enforced health code standards including proper holding temperatures, food quality, hygiene and safety of co-workers, and the cleanliness of resturant.</li>
+        <li>Managed the timely delivery of food that aligned with several other stations assuring all dishes arrived to the customer simultaneously.</li>
+        <li>Implemented training regiments that safely introduce new co-workers to different work stations that instills confidence and minimizes first day confusion.</li>
+        <li>Communicated to team members about current stock of necessary ingredients and tools so business processes continue as expected</li>
+        <li>Improvised during equipment failure so that all resturant processes can continue to flow while producing the same quality of food.</li>
+        <li>Communicate with both managers and general workers daily to better understand what can be improved and what isn't working.</li>
+        <li>Communicate with unhappy customers and provide them with helpful service in order to solve whatever issue they may have.</li>
+        <li>Foster a work enviroment that makes co-workers and customers alike feel comfortable, happy, and safe.</li>
+        <li>Readily available to answer any question regarding work processes during business quickly and accurately.</li>
+        <li>Implemented closing procedures that have eliminated time waste during the set up of the following day.</li>
+        <li>Consistently raised morale during times of duress for the resturant while working any assigned station.</li>
+      </ul>
+    </div>
+    
+    <div class=townhall>
+      <h3>Town Hall</h3>
+
+      <h4>October, 2021-Febuary, 2022</h4>
+
+      <h4>Line Cook</h4>
+    </div>
+   
+    <div class=townhalllist>
+      <ul>
+        <li>Managed inflows and outflows of product.</li>
+        <li>Assisted in preperation of menu items and general daily tasks.</li>
+        <li>Maintained timeliness during increased workflow.</li>
+      </ul>
+    </div>
+    
+    <div class=avex>
+      <h3>AVEX Audio, Video, and Lighting</h3>
+
+      <h4> October, 2023-March, 2024</h4>
+
+      <h4>Stagehand</h4>
+    </div>
+    
+    <div class=townhalllist>
+      <ul>
+        <li>Set larget events and smaller breakout rooms.</li>
+        <li>Struck events making sure to return equipment in an organized manner.</li>
+        <li>Worked with team members to exectute room flips and strikes within small time frames.</li>
+        <li>Communicated with clients during events and assisted with last minute changes to shows.</li>
+      </ul>
+    </div>
+    
+    <div class=education>
+      <h2>Education</h2>
+
+      <h3>Associates of Science in Accounting with Honors</h3>
+
+      <h4> Normandale Community College, Bloomington, MN</h4>
+
+      <h4> May, 2020</h4>
+    </div>
+    
+   <div class=copywrite> 
+      <h6> Copywrite 2024, Tristan Persaud</h6>
+   </div>
+ 
+  </body>
+
+
+</html>
